@@ -2,6 +2,8 @@
 
 Ứng dụng crawl và hiển thị dữ liệu hành chính Việt Nam với giao diện web đẹp và trực quan.
 
+Theo Công văn 2896/BNV-CQĐP năm 2025 cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới do Bộ Nội vụ ban hành
+https://thuvienphapluat.vn/cong-van/bo-may-hanh-chinh/cong-van-2896-bnv-cqdp-2025-cung-cap-thong-tin-danh-muc-du-kien-don-vi-hanh-chinh-cap-xa-moi-658752.aspx
 ## Tính năng
 
 ### 🕷️ Crawler (main.py)
